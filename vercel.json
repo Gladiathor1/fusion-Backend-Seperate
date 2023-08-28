@@ -1,6 +1,6 @@
 {
   "functions": {
-    "**": {
+    "src/**": {
       "runtime": "nodejs@18.3.0"
     }
   }
